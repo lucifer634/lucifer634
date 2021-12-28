@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning html ,python 
 - 💞️ I’m looking to collaborate on no one 
-- 📫 How to reach me i am just learnig 
+- 📫 i am just learnig 
 
 <!---
 lucifer634/lucifer634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
